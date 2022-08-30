@@ -1,47 +1,47 @@
 {
   "url": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
   "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
-  "timestamp": 1661817550090,
+  "timestamp": 1661816158548,
   "ranks": {
     "hundos": 10,
-    "performance": 12,
+    "performance": 10,
     "accessibility": 13,
     "cumulative": 10
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.21,
+    "performance": 0.2,
     "accessibility": 0.85,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 283
+    "total": 282
   },
-  "firstContentfulPaint": 3190.678,
-  "firstMeaningfulPaint": 3190.678,
-  "speedIndex": 11062.883299744866,
-  "largestContentfulPaint": 16300.3745,
-  "totalBlockingTime": 3172.858499999994,
+  "firstContentfulPaint": 3255.7540000000004,
+  "firstMeaningfulPaint": 3255.7540000000004,
+  "speedIndex": 13730.085685909587,
+  "largestContentfulPaint": 16839.64,
+  "totalBlockingTime": 4031.904499999997,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 20365.241499999993,
-  "maxPotentialFirstInputDelay": 2021,
-  "timeToFirstByte": 12.549,
+  "timeToInteractive": 21309.482000000004,
+  "maxPotentialFirstInputDelay": 2710,
+  "timeToFirstByte": 78.49699999999999,
   "weight": {
-    "summary": "237 requests • 2,562 KiB",
-    "total": 2623789,
-    "image": 737217,
+    "summary": "238 requests • 2,560 KiB",
+    "total": 2620974,
+    "image": 735541,
     "imageCount": 50,
-    "script": 1469294,
+    "script": 1469442,
     "scriptCount": 44,
-    "document": 109895,
-    "font": 111688,
+    "document": 109721,
+    "font": 111579,
     "fontCount": 6,
-    "stylesheet": 179145,
+    "stylesheet": 178688,
     "stylesheetCount": 101,
-    "thirdParty": 1669858,
-    "thirdPartyCount": 111
+    "thirdParty": 1667705,
+    "thirdPartyCount": 112
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
@@ -54,10 +54,10 @@
     "-weight.image": 12,
     "+weight.image": 2,
     "-weight.font": 4,
-    "+weight.font": 9,
+    "+weight.font": 10,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 3,
-    "-totalBlockingTime": 9,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 2,
     "-largestContentfulPaint": 13
   },
   "axe": {

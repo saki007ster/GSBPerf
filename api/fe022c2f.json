@@ -1,43 +1,43 @@
 {
   "url": "https://www.gsb.stanford.edu/alumni/news/voices",
   "requestedUrl": "https://www.gsb.stanford.edu/alumni/news/voices",
-  "timestamp": 1661819642225,
+  "timestamp": 1661823497580,
   "ranks": {
-    "hundos": 8,
-    "performance": 9,
-    "accessibility": 10,
-    "cumulative": 8
+    "hundos": 7,
+    "performance": 8,
+    "accessibility": 9,
+    "cumulative": 7
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.23,
+    "performance": 0.25,
     "accessibility": 0.9,
     "bestPractices": 0.92,
     "seo": 0.86,
-    "total": 291
+    "total": 293
   },
-  "firstContentfulPaint": 3004.613,
-  "firstMeaningfulPaint": 3004.613,
-  "speedIndex": 12545.263926099078,
-  "largestContentfulPaint": 13471.259499999998,
-  "totalBlockingTime": 1904.279,
+  "firstContentfulPaint": 3090.553999999999,
+  "firstMeaningfulPaint": 3090.553999999999,
+  "speedIndex": 7784.370835896658,
+  "largestContentfulPaint": 12756.961,
+  "totalBlockingTime": 1917.000000000001,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16543.889499999997,
-  "maxPotentialFirstInputDelay": 994,
-  "timeToFirstByte": 3707.522,
+  "timeToInteractive": 16646.591,
+  "maxPotentialFirstInputDelay": 1005.0000000000009,
+  "timeToFirstByte": 17.976,
   "weight": {
-    "summary": "213 requests • 1,786 KiB",
-    "total": 1829023,
-    "image": 98172,
+    "summary": "213 requests • 1,782 KiB",
+    "total": 1824916,
+    "image": 96321,
     "imageCount": 39,
-    "script": 1356639,
+    "script": 1355907,
     "scriptCount": 41,
-    "document": 97845,
-    "font": 101350,
+    "document": 97654,
+    "font": 101445,
     "fontCount": 5,
-    "stylesheet": 162594,
+    "stylesheet": 161980,
     "stylesheetCount": 95,
-    "thirdParty": 1305699,
+    "thirdParty": 1302229,
     "thirdPartyCount": 94
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 4,
-    "+weight.total": 8,
+    "+weight.total": 7,
     "-weight.document": 5,
-    "+weight.document": 7,
-    "-weight.script": 7,
+    "+weight.document": 6,
+    "-weight.script": 6,
     "+weight.script": 5,
     "-weight.image": 4,
-    "+weight.image": 8,
-    "-weight.font": 1,
-    "+weight.font": 11,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 10,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 9
+    "+weight.image": 7,
+    "-weight.font": 8,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 8
   },
   "axe": {
     "passes": 917,
     "violations": 28
+  },
+  "previousRanks": {
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 9
   }
 }

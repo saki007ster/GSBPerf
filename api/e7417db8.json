@@ -1,67 +1,73 @@
 {
   "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
   "requestedUrl": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
-  "timestamp": 1661819257105,
+  "timestamp": 1661823640186,
   "ranks": {
-    "hundos": 10,
+    "hundos": 8,
     "performance": 10,
-    "accessibility": 9,
-    "cumulative": 10
+    "accessibility": 8,
+    "cumulative": 9
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.22,
+    "performance": 0.23,
     "accessibility": 0.9,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 289
+    "total": 290
   },
-  "firstContentfulPaint": 3019.0720000000006,
-  "firstMeaningfulPaint": 3019.0720000000006,
-  "speedIndex": 15664.261806603447,
-  "largestContentfulPaint": 16414.489500000003,
-  "totalBlockingTime": 2066.000000000002,
+  "firstContentfulPaint": 3280.186,
+  "firstMeaningfulPaint": 3280.186,
+  "speedIndex": 9989.655982208733,
+  "largestContentfulPaint": 17059.728999999996,
+  "totalBlockingTime": 1722.999999999999,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 20753.411000000007,
-  "maxPotentialFirstInputDelay": 1095.0000000000018,
-  "timeToFirstByte": 4314.464999999999,
+  "timeToInteractive": 20869.9675,
+  "maxPotentialFirstInputDelay": 998.9999999999982,
+  "timeToFirstByte": 18.207,
   "weight": {
-    "summary": "230 requests • 4,289 KiB",
-    "total": 4391623,
-    "image": 2645727,
+    "summary": "230 requests • 4,286 KiB",
+    "total": 4388843,
+    "image": 2643991,
     "imageCount": 47,
-    "script": 1356571,
+    "script": 1356797,
     "scriptCount": 41,
-    "document": 109504,
-    "font": 101376,
+    "document": 109241,
+    "font": 101361,
     "fontCount": 5,
-    "stylesheet": 166544,
+    "stylesheet": 165812,
     "stylesheetCount": 104,
-    "thirdParty": 1304521,
+    "thirdParty": 1302404,
     "thirdPartyCount": 94
   },
   "run": {
-    "number": 1,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 11,
+    "-weight.total": 10,
     "+weight.total": 1,
-    "-weight.document": 10,
+    "-weight.document": 9,
     "+weight.document": 2,
-    "-weight.script": 6,
-    "+weight.script": 6,
-    "-weight.image": 11,
+    "-weight.script": 7,
+    "+weight.script": 4,
+    "-weight.image": 10,
     "+weight.image": 1,
-    "-weight.font": 4,
-    "+weight.font": 8,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 11,
-    "-totalBlockingTime": 6,
-    "-largestContentfulPaint": 11
+    "-weight.font": 1,
+    "+weight.font": 10,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 10
   },
   "axe": {
     "passes": 1325,
     "violations": 22
+  },
+  "previousRanks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 9,
+    "cumulative": 8
   }
 }

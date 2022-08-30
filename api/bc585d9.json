@@ -1,44 +1,44 @@
 {
   "url": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
   "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
-  "timestamp": 1661819698284,
+  "timestamp": 1661823520516,
   "ranks": {
-    "hundos": 11,
-    "performance": 8,
-    "accessibility": 11,
-    "cumulative": 11
+    "hundos": 10,
+    "performance": 7,
+    "accessibility": 10,
+    "cumulative": 10
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.24,
+    "performance": 0.26,
     "accessibility": 0.87,
     "bestPractices": 0.83,
     "seo": 0.79,
-    "total": 273
+    "total": 275
   },
-  "firstContentfulPaint": 2675.1580000000004,
-  "firstMeaningfulPaint": 2675.1580000000004,
-  "speedIndex": 11484.059012377285,
-  "largestContentfulPaint": 12798.861999999997,
-  "totalBlockingTime": 2132,
+  "firstContentfulPaint": 2645.153,
+  "firstMeaningfulPaint": 2645.153,
+  "speedIndex": 7884.977213739672,
+  "largestContentfulPaint": 11566.108000000004,
+  "totalBlockingTime": 2023.999999999999,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16244.541499999998,
-  "maxPotentialFirstInputDelay": 980,
-  "timeToFirstByte": 3095.7290000000003,
+  "timeToInteractive": 16081.4325,
+  "maxPotentialFirstInputDelay": 1027,
+  "timeToFirstByte": 10.832999999999998,
   "weight": {
-    "summary": "183 requests • 1,641 KiB",
-    "total": 1680288,
-    "image": 23301,
+    "summary": "182 requests • 1,639 KiB",
+    "total": 1678017,
+    "image": 22211,
     "imageCount": 38,
-    "script": 1332621,
+    "script": 1331941,
     "scriptCount": 38,
-    "document": 99753,
-    "font": 101380,
+    "document": 99348,
+    "font": 101375,
     "fontCount": 5,
-    "stylesheet": 111084,
+    "stylesheet": 111593,
     "stylesheetCount": 69,
-    "thirdParty": 1299062,
-    "thirdPartyCount": 92
+    "thirdParty": 1296194,
+    "thirdPartyCount": 91
   },
   "run": {
     "number": 3,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 1,
-    "+weight.total": 11,
+    "+weight.total": 10,
     "-weight.document": 6,
-    "+weight.document": 6,
+    "+weight.document": 5,
     "-weight.script": 4,
-    "+weight.script": 8,
+    "+weight.script": 7,
     "-weight.image": 1,
-    "+weight.image": 11,
-    "-weight.font": 5,
-    "+weight.font": 7,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 6,
-    "-totalBlockingTime": 7,
-    "-largestContentfulPaint": 8
+    "+weight.image": 10,
+    "-weight.font": 2,
+    "+weight.font": 9,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 6
   },
   "axe": {
     "passes": 1089,
     "violations": 19
+  },
+  "previousRanks": {
+    "hundos": 11,
+    "performance": 6,
+    "accessibility": 11,
+    "cumulative": 11
   }
 }

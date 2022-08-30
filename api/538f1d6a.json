@@ -1,44 +1,44 @@
 {
   "url": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
   "requestedUrl": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
-  "timestamp": 1661819479812,
+  "timestamp": 1661823352875,
   "ranks": {
     "hundos": 4,
-    "performance": 4,
+    "performance": 5,
     "accessibility": 4,
     "cumulative": 4
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.33,
+    "performance": 0.34,
     "accessibility": 1,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 310
+    "total": 311
   },
-  "firstContentfulPaint": 2724.5210000000006,
-  "firstMeaningfulPaint": 2724.5210000000006,
-  "speedIndex": 10609.265457307514,
-  "largestContentfulPaint": 4517.631000000001,
-  "totalBlockingTime": 2012.5,
+  "firstContentfulPaint": 2802.957,
+  "firstMeaningfulPaint": 2873.922,
+  "speedIndex": 7224.565481960862,
+  "largestContentfulPaint": 4707.835,
+  "totalBlockingTime": 2001.0000000000007,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 17127.154499999997,
-  "maxPotentialFirstInputDelay": 910,
-  "timeToFirstByte": 2819.178,
+  "timeToInteractive": 16975.8035,
+  "maxPotentialFirstInputDelay": 959,
+  "timeToFirstByte": 24.984999999999992,
   "weight": {
-    "summary": "220 requests • 1,763 KiB",
-    "total": 1805082,
-    "image": 74037,
+    "summary": "221 requests • 1,758 KiB",
+    "total": 1800075,
+    "image": 71341,
     "imageCount": 44,
-    "script": 1376829,
+    "script": 1376289,
     "scriptCount": 42,
-    "document": 94853,
-    "font": 101394,
+    "document": 94616,
+    "font": 101419,
     "fontCount": 5,
-    "stylesheet": 144877,
+    "stylesheet": 144727,
     "stylesheetCount": 93,
-    "thirdParty": 1367682,
-    "thirdPartyCount": 106
+    "thirdParty": 1362658,
+    "thirdPartyCount": 107
   },
   "run": {
     "number": 2,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 3,
-    "+weight.total": 9,
+    "+weight.total": 8,
     "-weight.document": 3,
-    "+weight.document": 9,
+    "+weight.document": 8,
     "-weight.script": 8,
-    "+weight.script": 4,
+    "+weight.script": 3,
     "-weight.image": 3,
-    "+weight.image": 9,
+    "+weight.image": 8,
     "-weight.font": 6,
-    "+weight.font": 6,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 5,
-    "-totalBlockingTime": 5,
+    "+weight.font": 5,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 8,
     "-largestContentfulPaint": 5
   },
   "axe": {
     "passes": 846,
     "violations": 27
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 3
   }
 }

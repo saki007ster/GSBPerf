@@ -1,12 +1,12 @@
 {
   "url": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
   "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
-  "timestamp": 1661817267246,
+  "timestamp": 1661821899161,
   "ranks": {
-    "hundos": 12,
-    "performance": 9,
-    "accessibility": 10,
-    "cumulative": 12
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 7,
+    "cumulative": 7
   },
   "lighthouse": {
     "version": "9.6.6",
@@ -16,28 +16,28 @@
     "seo": 0.78,
     "total": 271
   },
-  "firstContentfulPaint": 2790.212,
-  "firstMeaningfulPaint": 2790.212,
-  "speedIndex": 9987.118668782587,
-  "largestContentfulPaint": 11731.404000000002,
-  "totalBlockingTime": 3096.499999999998,
+  "firstContentfulPaint": 2943.794999999999,
+  "firstMeaningfulPaint": 2943.794999999999,
+  "speedIndex": 10135.429112807367,
+  "largestContentfulPaint": 12595.850999999995,
+  "totalBlockingTime": 2485.3275000000012,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 18321.3445,
-  "maxPotentialFirstInputDelay": 1378,
-  "timeToFirstByte": 20.689999999999998,
+  "timeToInteractive": 18172.5935,
+  "maxPotentialFirstInputDelay": 1208,
+  "timeToFirstByte": 70.262,
   "weight": {
-    "summary": "187 requests • 1,707 KiB",
-    "total": 1748299,
-    "image": 32097,
+    "summary": "187 requests • 1,705 KiB",
+    "total": 1746362,
+    "image": 31342,
     "imageCount": 38,
-    "script": 1332224,
+    "script": 1332308,
     "scriptCount": 38,
-    "document": 130367,
-    "font": 125738,
+    "document": 130197,
+    "font": 125722,
     "fontCount": 6,
-    "stylesheet": 115760,
+    "stylesheet": 115596,
     "stylesheetCount": 73,
-    "thirdParty": 1297728,
+    "thirdParty": 1295942,
     "thirdPartyCount": 91
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 3,
-    "+weight.total": 11,
-    "-weight.document": 11,
-    "+weight.document": 3,
+    "-weight.total": 1,
+    "+weight.total": 7,
+    "-weight.document": 6,
+    "+weight.document": 2,
     "-weight.script": 1,
-    "+weight.script": 13,
-    "-weight.image": 5,
-    "+weight.image": 9,
-    "-weight.font": 7,
-    "+weight.font": 6,
+    "+weight.script": 7,
+    "-weight.image": 3,
+    "+weight.image": 5,
+    "-weight.font": 3,
+    "+weight.font": 5,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 4,
-    "-totalBlockingTime": 8,
-    "-largestContentfulPaint": 9
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 7
   },
   "axe": {
     "passes": 2562,
     "violations": 22
+  },
+  "previousRanks": {
+    "hundos": 13,
+    "performance": 11,
+    "accessibility": 10,
+    "cumulative": 13
   }
 }

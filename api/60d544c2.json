@@ -1,67 +1,73 @@
 {
   "url": "https://www.gsb.stanford.edu/experience/life/international-students",
   "requestedUrl": "https://www.gsb.stanford.edu/experience/life/international-students",
-  "timestamp": 1661819751208,
+  "timestamp": 1661823331382,
   "ranks": {
-    "hundos": 3,
-    "performance": 1,
-    "accessibility": 8,
-    "cumulative": 3
+    "hundos": 5,
+    "performance": 3,
+    "accessibility": 7,
+    "cumulative": 5
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.43,
+    "performance": 0.39,
     "accessibility": 0.91,
     "bestPractices": 0.92,
     "seo": 0.86,
-    "total": 312
+    "total": 308
   },
-  "firstContentfulPaint": 2844.483,
-  "firstMeaningfulPaint": 2844.483,
-  "speedIndex": 7532.089822189018,
-  "largestContentfulPaint": 3466.4390000000003,
-  "totalBlockingTime": 1692.291000000003,
+  "firstContentfulPaint": 2921.773,
+  "firstMeaningfulPaint": 2921.773,
+  "speedIndex": 6909.068683735516,
+  "largestContentfulPaint": 4041.7290000000003,
+  "totalBlockingTime": 1689.621000000002,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16590.8485,
-  "maxPotentialFirstInputDelay": 844,
-  "timeToFirstByte": 801.61,
+  "timeToInteractive": 16143.032500000001,
+  "maxPotentialFirstInputDelay": 915,
+  "timeToFirstByte": 14.248999999999995,
   "weight": {
-    "summary": "209 requests • 1,819 KiB",
-    "total": 1863018,
-    "image": 185098,
+    "summary": "209 requests • 1,816 KiB",
+    "total": 1859886,
+    "image": 183649,
     "imageCount": 41,
-    "script": 1315651,
+    "script": 1314907,
     "scriptCount": 38,
-    "document": 104779,
-    "font": 101397,
+    "document": 104561,
+    "font": 101437,
     "fontCount": 5,
-    "stylesheet": 143994,
+    "stylesheet": 144042,
     "stylesheetCount": 93,
-    "thirdParty": 1298966,
+    "thirdParty": 1295769,
     "thirdPartyCount": 91
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
     "-weight.total": 5,
-    "+weight.total": 7,
-    "-weight.document": 9,
+    "+weight.total": 6,
+    "-weight.document": 8,
     "+weight.document": 3,
     "-weight.script": 2,
-    "+weight.script": 10,
+    "+weight.script": 9,
     "-weight.image": 5,
-    "+weight.image": 7,
+    "+weight.image": 6,
     "-weight.font": 7,
-    "+weight.font": 5,
-    "+weight.fontCount": 4,
+    "+weight.font": 4,
+    "+weight.fontCount": 3,
     "-timeToFirstByte": 4,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 1
+    "-largestContentfulPaint": 4
   },
   "axe": {
     "passes": 1015,
     "violations": 19
+  },
+  "previousRanks": {
+    "hundos": 5,
+    "performance": 1,
+    "accessibility": 7,
+    "cumulative": 5
   }
 }

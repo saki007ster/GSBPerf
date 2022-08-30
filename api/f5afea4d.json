@@ -1,67 +1,73 @@
 {
   "url": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
   "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
-  "timestamp": 1661817184731,
+  "timestamp": 1661822024037,
   "ranks": {
-    "hundos": 8,
-    "performance": 8,
-    "accessibility": 5,
-    "cumulative": 8
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 6
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.33,
+    "performance": 0.36,
     "accessibility": 1,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 310
+    "total": 313
   },
-  "firstContentfulPaint": 2949.7670000000007,
-  "firstMeaningfulPaint": 3002.959500000001,
-  "speedIndex": 9291.033396809238,
-  "largestContentfulPaint": 4191.847000000002,
-  "totalBlockingTime": 4168.499999999999,
+  "firstContentfulPaint": 2885.1139999999996,
+  "firstMeaningfulPaint": 2885.1139999999996,
+  "speedIndex": 9997.826277335455,
+  "largestContentfulPaint": 3702.605999999999,
+  "totalBlockingTime": 3536,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 24944.190499999997,
-  "maxPotentialFirstInputDelay": 1675,
-  "timeToFirstByte": 10.756,
+  "timeToInteractive": 25000.506,
+  "maxPotentialFirstInputDelay": 1504,
+  "timeToFirstByte": 14.172999999999995,
   "weight": {
-    "summary": "226 requests • 2,809 KiB",
-    "total": 2876549,
-    "image": 17027,
+    "summary": "227 requests • 2,808 KiB",
+    "total": 2875204,
+    "image": 16835,
     "imageCount": 37,
-    "script": 2488851,
+    "script": 2488628,
     "scriptCount": 49,
-    "document": 116480,
-    "font": 101375,
+    "document": 116472,
+    "font": 101343,
     "fontCount": 10,
-    "stylesheet": 141596,
+    "stylesheet": 140527,
     "stylesheetCount": 96,
-    "thirdParty": 2452278,
-    "thirdPartyCount": 109
+    "thirdParty": 2452245,
+    "thirdPartyCount": 110
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 10,
-    "+weight.total": 4,
-    "-weight.document": 9,
-    "+weight.document": 5,
-    "-weight.script": 11,
-    "+weight.script": 3,
+    "-weight.total": 6,
+    "+weight.total": 2,
+    "-weight.document": 5,
+    "+weight.document": 3,
+    "-weight.script": 6,
+    "+weight.script": 2,
     "-weight.image": 1,
-    "+weight.image": 13,
+    "+weight.image": 7,
     "-weight.font": 1,
-    "+weight.font": 12,
+    "+weight.font": 7,
     "+weight.fontCount": 2,
     "-timeToFirstByte": 2,
-    "-totalBlockingTime": 11,
-    "-largestContentfulPaint": 8
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 2
   },
   "axe": {
     "passes": 1367,
     "violations": 17
+  },
+  "previousRanks": {
+    "hundos": 7,
+    "performance": 3,
+    "accessibility": 5,
+    "cumulative": 7
   }
 }
