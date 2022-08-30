@@ -1,47 +1,47 @@
 {
   "url": "https://www.gsb.stanford.edu/library/research-support/ask-us",
   "requestedUrl": "https://www.gsb.stanford.edu/library/research-support/ask-us",
-  "timestamp": 1661818184778,
+  "timestamp": 1661819907252,
   "ranks": {
     "hundos": 1,
     "performance": 2,
-    "accessibility": 8,
+    "accessibility": 6,
     "cumulative": 1
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.38,
-    "accessibility": 0.91,
+    "performance": 0.41,
+    "accessibility": 0.93,
     "bestPractices": 0.92,
     "seo": 0.93,
-    "total": 314
+    "total": 319
   },
-  "firstContentfulPaint": 2742.7420000000006,
-  "firstMeaningfulPaint": 2742.7420000000006,
-  "speedIndex": 8344.719000044543,
-  "largestContentfulPaint": 3875.760000000001,
-  "totalBlockingTime": 2209,
+  "firstContentfulPaint": 2739.8289999999997,
+  "firstMeaningfulPaint": 2793.06,
+  "speedIndex": 7835.992920977647,
+  "largestContentfulPaint": 3687.8069999999993,
+  "totalBlockingTime": 1990.5000000000036,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 17218.046499999997,
-  "maxPotentialFirstInputDelay": 995,
-  "timeToFirstByte": 357.71900000000005,
+  "timeToInteractive": 16061.025500000003,
+  "maxPotentialFirstInputDelay": 991.0000000000018,
+  "timeToFirstByte": 515.189,
   "weight": {
-    "summary": "217 requests • 1,707 KiB",
-    "total": 1748421,
-    "image": 23552,
-    "imageCount": 43,
-    "script": 1379657,
-    "scriptCount": 45,
-    "document": 97367,
-    "font": 101386,
+    "summary": "212 requests • 1,655 KiB",
+    "total": 1694390,
+    "image": 23629,
+    "imageCount": 41,
+    "script": 1324102,
+    "scriptCount": 42,
+    "document": 97540,
+    "font": 101358,
     "fontCount": 5,
-    "stylesheet": 134369,
+    "stylesheet": 134650,
     "stylesheetCount": 90,
-    "thirdParty": 1364896,
-    "thirdPartyCount": 100
+    "thirdParty": 1311743,
+    "thirdPartyCount": 97
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
@@ -49,19 +49,19 @@
     "+weight.total": 10,
     "-weight.document": 4,
     "+weight.document": 8,
-    "-weight.script": 8,
-    "+weight.script": 4,
+    "-weight.script": 3,
+    "+weight.script": 9,
     "-weight.image": 2,
     "+weight.image": 10,
-    "-weight.font": 2,
-    "+weight.font": 10,
+    "-weight.font": 3,
+    "+weight.font": 9,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 1,
-    "-totalBlockingTime": 7,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 4,
     "-largestContentfulPaint": 2
   },
   "axe": {
-    "passes": 923,
-    "violations": 23
+    "passes": 921,
+    "violations": 22
   }
 }

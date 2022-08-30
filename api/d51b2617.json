@@ -1,47 +1,47 @@
 {
   "url": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
   "requestedUrl": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
-  "timestamp": 1661816113926,
+  "timestamp": 1661818237301,
   "ranks": {
-    "hundos": 6,
+    "hundos": 7,
     "performance": 2,
     "accessibility": 9,
-    "cumulative": 6
+    "cumulative": 7
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.41,
+    "performance": 0.38,
     "accessibility": 0.99,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 317
+    "total": 314
   },
-  "firstContentfulPaint": 2836.3630000000003,
-  "firstMeaningfulPaint": 2836.3630000000003,
-  "speedIndex": 6731.031243325855,
-  "largestContentfulPaint": 3675.1530000000007,
-  "totalBlockingTime": 2038.780499999998,
+  "firstContentfulPaint": 2756.783,
+  "firstMeaningfulPaint": 2756.783,
+  "speedIndex": 11203.364439937664,
+  "largestContentfulPaint": 3773.4980000000005,
+  "totalBlockingTime": 1979.349500000002,
   "cumulativeLayoutShift": 0.022273763020833334,
-  "timeToInteractive": 17239.1635,
-  "maxPotentialFirstInputDelay": 955,
-  "timeToFirstByte": 49.283,
+  "timeToInteractive": 17189.213499999998,
+  "maxPotentialFirstInputDelay": 954,
+  "timeToFirstByte": 3215.781,
   "weight": {
-    "summary": "223 requests • 1,825 KiB",
-    "total": 1868495,
-    "image": 85530,
+    "summary": "220 requests • 1,826 KiB",
+    "total": 1869586,
+    "image": 86942,
     "imageCount": 40,
-    "script": 1405856,
+    "script": 1406575,
     "scriptCount": 43,
-    "document": 103419,
-    "font": 125768,
+    "document": 103095,
+    "font": 125765,
     "fontCount": 6,
-    "stylesheet": 134391,
+    "stylesheet": 134833,
     "stylesheetCount": 96,
-    "thirdParty": 1375216,
-    "thirdPartyCount": 103
+    "thirdParty": 1375979,
+    "thirdPartyCount": 100
   },
   "run": {
-    "number": 1,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
@@ -53,12 +53,12 @@
     "+weight.script": 6,
     "-weight.image": 7,
     "+weight.image": 7,
-    "-weight.font": 9,
-    "+weight.font": 4,
+    "-weight.font": 8,
+    "+weight.font": 5,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 11,
-    "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 2
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 5
   },
   "axe": {
     "passes": 1204,

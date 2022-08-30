@@ -1,47 +1,47 @@
 {
   "url": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
   "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
-  "timestamp": 1661816528496,
+  "timestamp": 1661817550090,
   "ranks": {
     "hundos": 10,
-    "performance": 13,
+    "performance": 12,
     "accessibility": 13,
     "cumulative": 10
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.2,
+    "performance": 0.21,
     "accessibility": 0.85,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 282
+    "total": 283
   },
-  "firstContentfulPaint": 3248.3920000000007,
-  "firstMeaningfulPaint": 3248.3920000000007,
-  "speedIndex": 12095.320717021867,
-  "largestContentfulPaint": 16853.119000000006,
-  "totalBlockingTime": 3280.6234999999997,
+  "firstContentfulPaint": 3190.678,
+  "firstMeaningfulPaint": 3190.678,
+  "speedIndex": 11062.883299744866,
+  "largestContentfulPaint": 16300.3745,
+  "totalBlockingTime": 3172.858499999994,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 20958.650500000007,
-  "maxPotentialFirstInputDelay": 2194,
-  "timeToFirstByte": 9.425999999999995,
+  "timeToInteractive": 20365.241499999993,
+  "maxPotentialFirstInputDelay": 2021,
+  "timeToFirstByte": 12.549,
   "weight": {
-    "summary": "238 requests • 2,562 KiB",
-    "total": 2623228,
-    "image": 736834,
+    "summary": "237 requests • 2,562 KiB",
+    "total": 2623789,
+    "image": 737217,
     "imageCount": 50,
-    "script": 1468785,
+    "script": 1469294,
     "scriptCount": 44,
-    "document": 109898,
-    "font": 111648,
+    "document": 109895,
+    "font": 111688,
     "fontCount": 6,
-    "stylesheet": 179247,
+    "stylesheet": 179145,
     "stylesheetCount": 101,
-    "thirdParty": 1669293,
-    "thirdPartyCount": 112
+    "thirdParty": 1669858,
+    "thirdPartyCount": 111
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -56,8 +56,8 @@
     "-weight.font": 4,
     "+weight.font": 9,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 1,
-    "-totalBlockingTime": 8,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 9,
     "-largestContentfulPaint": 13
   },
   "axe": {

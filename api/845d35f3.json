@@ -1,12 +1,12 @@
 {
   "url": "https://www.gsb.stanford.edu/faculty-research",
   "requestedUrl": "https://www.gsb.stanford.edu/faculty-research",
-  "timestamp": 1661817468455,
+  "timestamp": 1661818736277,
   "ranks": {
-    "hundos": 3,
-    "performance": 4,
+    "hundos": 2,
+    "performance": 2,
     "accessibility": 1,
-    "cumulative": 3
+    "cumulative": 2
   },
   "lighthouse": {
     "version": "9.6.6",
@@ -16,32 +16,32 @@
     "seo": 0.93,
     "total": 318
   },
-  "firstContentfulPaint": 3075.85,
-  "firstMeaningfulPaint": 3075.85,
-  "speedIndex": 8029.181611110367,
-  "largestContentfulPaint": 12819.848000000002,
-  "totalBlockingTime": 2079.0000000000023,
+  "firstContentfulPaint": 3066.793,
+  "firstMeaningfulPaint": 3066.793,
+  "speedIndex": 7932.412481037763,
+  "largestContentfulPaint": 12937.591,
+  "totalBlockingTime": 2002,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 15860.095000000005,
-  "maxPotentialFirstInputDelay": 1112.000000000001,
-  "timeToFirstByte": 10.251,
+  "timeToInteractive": 15684.051,
+  "maxPotentialFirstInputDelay": 1069,
+  "timeToFirstByte": 11.094,
   "weight": {
     "summary": "184 requests • 2,948 KiB",
-    "total": 3018748,
-    "image": 1273241,
+    "total": 3018788,
+    "image": 1273240,
     "imageCount": 25,
-    "script": 1342764,
+    "script": 1342876,
     "scriptCount": 39,
-    "document": 104815,
-    "font": 125643,
+    "document": 104834,
+    "font": 125712,
     "fontCount": 6,
-    "stylesheet": 170077,
+    "stylesheet": 169966,
     "stylesheetCount": 104,
-    "thirdParty": 1273169,
+    "thirdParty": 1273264,
     "thirdPartyCount": 54
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -56,9 +56,9 @@
     "-weight.font": 5,
     "+weight.font": 3,
     "+weight.fontCount": 2,
-    "-timeToFirstByte": 4,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 6
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 5
   },
   "axe": {
     "passes": 1046,

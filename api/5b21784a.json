@@ -1,47 +1,47 @@
 {
   "url": "https://www.gsb.stanford.edu/contact/wil-torres",
   "requestedUrl": "https://www.gsb.stanford.edu/contact/wil-torres",
-  "timestamp": 1661817861890,
+  "timestamp": 1661819884316,
   "ranks": {
-    "hundos": 10,
+    "hundos": 9,
     "performance": 6,
-    "accessibility": 6,
-    "cumulative": 10
+    "accessibility": 7,
+    "cumulative": 9
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.24,
+    "performance": 0.27,
     "accessibility": 0.92,
-    "bestPractices": 0.83,
+    "bestPractices": 0.92,
     "seo": 0.79,
-    "total": 278
+    "total": 290
   },
-  "firstContentfulPaint": 2728.6469999999995,
-  "firstMeaningfulPaint": 2728.6469999999995,
-  "speedIndex": 12991.429785748376,
-  "largestContentfulPaint": 12560.497500000001,
-  "totalBlockingTime": 1931,
+  "firstContentfulPaint": 2663.2370000000005,
+  "firstMeaningfulPaint": 2663.2370000000005,
+  "speedIndex": 7368.369497228956,
+  "largestContentfulPaint": 11747.057500000003,
+  "totalBlockingTime": 1883.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16376.229,
-  "maxPotentialFirstInputDelay": 912,
-  "timeToFirstByte": 3475.323,
+  "timeToInteractive": 16312.150000000005,
+  "maxPotentialFirstInputDelay": 849,
+  "timeToFirstByte": 333.321,
   "weight": {
-    "summary": "197 requests • 1,818 KiB",
-    "total": 1861832,
-    "image": 228748,
+    "summary": "197 requests • 1,821 KiB",
+    "total": 1864755,
+    "image": 230353,
     "imageCount": 38,
-    "script": 1312735,
+    "script": 1312640,
     "scriptCount": 38,
-    "document": 91942,
-    "font": 101378,
+    "document": 92153,
+    "font": 101518,
     "fontCount": 5,
-    "stylesheet": 115836,
+    "stylesheet": 115981,
     "stylesheetCount": 84,
-    "thirdParty": 1295482,
+    "thirdParty": 1298167,
     "thirdPartyCount": 91
   },
   "run": {
-    "number": 1,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
@@ -53,12 +53,12 @@
     "+weight.script": 11,
     "-weight.image": 7,
     "+weight.image": 5,
-    "-weight.font": 1,
-    "+weight.font": 11,
+    "-weight.font": 8,
+    "+weight.font": 4,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 7,
+    "-timeToFirstByte": 1,
     "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 7
+    "-largestContentfulPaint": 6
   },
   "axe": {
     "passes": 706,

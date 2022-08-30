@@ -1,44 +1,44 @@
 {
   "url": "https://www.gsb.stanford.edu/experience",
   "requestedUrl": "https://www.gsb.stanford.edu/experience",
-  "timestamp": 1661817055709,
+  "timestamp": 1661818492864,
   "ranks": {
-    "hundos": 2,
-    "performance": 2,
+    "hundos": 3,
+    "performance": 4,
     "accessibility": 2,
-    "cumulative": 2
+    "cumulative": 3
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.26,
+    "performance": 0.24,
     "accessibility": 1,
-    "bestPractices": 1,
+    "bestPractices": 0.92,
     "seo": 0.93,
-    "total": 319
+    "total": 309
   },
-  "firstContentfulPaint": 2752.3959999999997,
-  "firstMeaningfulPaint": 2752.3959999999997,
-  "speedIndex": 8161.51500598715,
-  "largestContentfulPaint": 12249.021999999999,
-  "totalBlockingTime": 1870.5,
+  "firstContentfulPaint": 2772.0280000000002,
+  "firstMeaningfulPaint": 2847.0280000000002,
+  "speedIndex": 12632.001078772784,
+  "largestContentfulPaint": 12063.288,
+  "totalBlockingTime": 2113.2330000000047,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 15218.5995,
-  "maxPotentialFirstInputDelay": 1081,
-  "timeToFirstByte": 55.976,
+  "timeToInteractive": 15222.555000000004,
+  "maxPotentialFirstInputDelay": 1094,
+  "timeToFirstByte": 3405.668,
   "weight": {
-    "summary": "192 requests • 1,704 KiB",
-    "total": 1745400,
-    "image": 55067,
+    "summary": "190 requests • 1,706 KiB",
+    "total": 1746468,
+    "image": 56086,
     "imageCount": 38,
-    "script": 1342290,
+    "script": 1342703,
     "scriptCount": 39,
-    "document": 103832,
-    "font": 101359,
+    "document": 104039,
+    "font": 101425,
     "fontCount": 5,
-    "stylesheet": 137557,
+    "stylesheet": 137978,
     "stylesheetCount": 94,
-    "thirdParty": 1280581,
-    "thirdPartyCount": 75
+    "thirdParty": 1281007,
+    "thirdPartyCount": 73
   },
   "run": {
     "number": 1,
@@ -56,9 +56,9 @@
     "-weight.font": 1,
     "+weight.font": 7,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 7,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 5
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 4
   },
   "axe": {
     "passes": 846,
