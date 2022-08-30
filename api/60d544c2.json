@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/experience/life/international-students",
+  "requestedUrl": "https://www.gsb.stanford.edu/experience/life/international-students",
+  "timestamp": 1661818319821,
+  "ranks": {
+    "hundos": 4,
+    "performance": 1,
+    "accessibility": 7,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.41,
+    "accessibility": 0.91,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 310
+  },
+  "firstContentfulPaint": 2897.7509999999997,
+  "firstMeaningfulPaint": 2897.7509999999997,
+  "speedIndex": 6908.847276695612,
+  "largestContentfulPaint": 3691.2309999999993,
+  "totalBlockingTime": 1989.0000000000018,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 16788.797,
+  "maxPotentialFirstInputDelay": 950,
+  "timeToFirstByte": 398.896,
+  "weight": {
+    "summary": "209 requests • 1,816 KiB",
+    "total": 1859537,
+    "image": 183800,
+    "imageCount": 41,
+    "script": 1314886,
+    "scriptCount": 38,
+    "document": 104605,
+    "font": 101398,
+    "fontCount": 5,
+    "stylesheet": 143574,
+    "stylesheetCount": 93,
+    "thirdParty": 1295924,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 7,
+    "-weight.document": 8,
+    "+weight.document": 4,
+    "-weight.script": 2,
+    "+weight.script": 10,
+    "-weight.image": 5,
+    "+weight.image": 7,
+    "-weight.font": 3,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1015,
+    "violations": 19
+  }
+}

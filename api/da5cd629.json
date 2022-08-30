@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/insights/8-faculty-members-recommend-their-favorite-podcasts",
+  "requestedUrl": "https://www.gsb.stanford.edu/insights/8-faculty-members-recommend-their-favorite-podcasts",
+  "timestamp": 1661816280774,
+  "ranks": {
+    "hundos": 7,
+    "performance": 3,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.38,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 316
+  },
+  "firstContentfulPaint": 2827.53,
+  "firstMeaningfulPaint": 2827.53,
+  "speedIndex": 7620.1770217074645,
+  "largestContentfulPaint": 3859.5010000000007,
+  "totalBlockingTime": 2447.0000000000045,
+  "cumulativeLayoutShift": 0.030971679687500003,
+  "timeToInteractive": 17550.87150000001,
+  "maxPotentialFirstInputDelay": 1070.0000000000018,
+  "timeToFirstByte": 13.210999999999999,
+  "weight": {
+    "summary": "217 requests • 1,925 KiB",
+    "total": 1971529,
+    "image": 169715,
+    "imageCount": 40,
+    "script": 1405988,
+    "scriptCount": 43,
+    "document": 102450,
+    "font": 150649,
+    "fontCount": 7,
+    "stylesheet": 131389,
+    "stylesheetCount": 93,
+    "thirdParty": 1373048,
+    "thirdPartyCount": 99
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 6,
+    "-weight.document": 2,
+    "+weight.document": 12,
+    "-weight.script": 9,
+    "+weight.script": 5,
+    "-weight.image": 8,
+    "+weight.image": 6,
+    "-weight.font": 10,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 1462,
+    "violations": 35
+  }
+}

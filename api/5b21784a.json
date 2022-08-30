@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/contact/wil-torres",
+  "requestedUrl": "https://www.gsb.stanford.edu/contact/wil-torres",
+  "timestamp": 1661817861890,
+  "ranks": {
+    "hundos": 10,
+    "performance": 6,
+    "accessibility": 6,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.24,
+    "accessibility": 0.92,
+    "bestPractices": 0.83,
+    "seo": 0.79,
+    "total": 278
+  },
+  "firstContentfulPaint": 2728.6469999999995,
+  "firstMeaningfulPaint": 2728.6469999999995,
+  "speedIndex": 12991.429785748376,
+  "largestContentfulPaint": 12560.497500000001,
+  "totalBlockingTime": 1931,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 16376.229,
+  "maxPotentialFirstInputDelay": 912,
+  "timeToFirstByte": 3475.323,
+  "weight": {
+    "summary": "197 requests • 1,818 KiB",
+    "total": 1861832,
+    "image": 228748,
+    "imageCount": 38,
+    "script": 1312735,
+    "scriptCount": 38,
+    "document": 91942,
+    "font": 101378,
+    "fontCount": 5,
+    "stylesheet": 115836,
+    "stylesheetCount": 84,
+    "thirdParty": 1295482,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 6,
+    "-weight.document": 2,
+    "+weight.document": 10,
+    "-weight.script": 1,
+    "+weight.script": 11,
+    "-weight.image": 7,
+    "+weight.image": 5,
+    "-weight.font": 1,
+    "+weight.font": 11,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 706,
+    "violations": 19
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
+  "timestamp": 1661817661854,
+  "ranks": {
+    "hundos": 11,
+    "performance": 8,
+    "accessibility": 11,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.23,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.79,
+    "total": 272
+  },
+  "firstContentfulPaint": 2699.7780000000002,
+  "firstMeaningfulPaint": 2699.7780000000002,
+  "speedIndex": 14804.890628371133,
+  "largestContentfulPaint": 12519.354,
+  "totalBlockingTime": 2292.2214999999987,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 16302.513499999997,
+  "maxPotentialFirstInputDelay": 1045,
+  "timeToFirstByte": 4382.653,
+  "weight": {
+    "summary": "182 requests • 1,638 KiB",
+    "total": 1677289,
+    "image": 21839,
+    "imageCount": 38,
+    "script": 1331975,
+    "scriptCount": 38,
+    "document": 99349,
+    "font": 101455,
+    "fontCount": 5,
+    "stylesheet": 111239,
+    "stylesheetCount": 69,
+    "thirdParty": 1295890,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 11,
+    "-weight.document": 6,
+    "+weight.document": 6,
+    "-weight.script": 3,
+    "+weight.script": 9,
+    "-weight.image": 1,
+    "+weight.image": 11,
+    "-weight.font": 7,
+    "+weight.font": 5,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 1089,
+    "violations": 19
+  }
+}

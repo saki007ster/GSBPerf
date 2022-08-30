@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/programs/phd/fields/marketing",
+  "requestedUrl": "https://www.gsb.stanford.edu/programs/phd/fields/marketing",
+  "timestamp": 1661816388147,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.37,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.93,
+    "total": 322
+  },
+  "firstContentfulPaint": 3085.948,
+  "firstMeaningfulPaint": 3085.948,
+  "speedIndex": 7234.654781226273,
+  "largestContentfulPaint": 3879.8729999999996,
+  "totalBlockingTime": 2592.568500000004,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17432.633499999993,
+  "maxPotentialFirstInputDelay": 1144,
+  "timeToFirstByte": 14.642000000000003,
+  "weight": {
+    "summary": "220 requests • 1,784 KiB",
+    "total": 1826612,
+    "image": 62142,
+    "imageCount": 38,
+    "script": 1350191,
+    "scriptCount": 39,
+    "document": 105565,
+    "font": 125760,
+    "fontCount": 6,
+    "stylesheet": 171657,
+    "stylesheetCount": 105,
+    "thirdParty": 1295210,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 9,
+    "-weight.document": 6,
+    "+weight.document": 8,
+    "-weight.script": 6,
+    "+weight.script": 8,
+    "-weight.image": 6,
+    "+weight.image": 8,
+    "-weight.font": 8,
+    "+weight.font": 5,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 1329,
+    "violations": 16
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/newsroom/school-news/meet-mba-class-2022-talented-diverse",
+  "requestedUrl": "https://www.gsb.stanford.edu/newsroom/school-news/meet-mba-class-2022-talented-diverse",
+  "timestamp": 1661818378714,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.32,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 310
+  },
+  "firstContentfulPaint": 2912.1579999999994,
+  "firstMeaningfulPaint": 2957.1579999999994,
+  "speedIndex": 19569.0537386151,
+  "largestContentfulPaint": 4102.2429999999995,
+  "totalBlockingTime": 5672.398499999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 31671.742499999993,
+  "maxPotentialFirstInputDelay": 1845,
+  "timeToFirstByte": 3865.258,
+  "weight": {
+    "summary": "262 requests • 4,286 KiB",
+    "total": 4388416,
+    "image": 625778,
+    "imageCount": 43,
+    "script": 3245771,
+    "scriptCount": 55,
+    "document": 151126,
+    "font": 112764,
+    "fontCount": 11,
+    "stylesheet": 209769,
+    "stylesheetCount": 108,
+    "thirdParty": 3600227,
+    "thirdPartyCount": 132
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 2,
+    "-weight.document": 11,
+    "+weight.document": 1,
+    "-weight.script": 11,
+    "+weight.script": 1,
+    "-weight.image": 10,
+    "+weight.image": 2,
+    "-weight.font": 9,
+    "+weight.font": 3,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 1239,
+    "violations": 21
+  }
+}

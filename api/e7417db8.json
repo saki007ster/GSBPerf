@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+  "requestedUrl": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+  "timestamp": 1661817810214,
+  "ranks": {
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.22,
+    "accessibility": 0.9,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 289
+  },
+  "firstContentfulPaint": 3039.5080000000003,
+  "firstMeaningfulPaint": 3039.5080000000003,
+  "speedIndex": 16566.666150903096,
+  "largestContentfulPaint": 16714.625000000004,
+  "totalBlockingTime": 2045.9999999999982,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 21227.683,
+  "maxPotentialFirstInputDelay": 1121,
+  "timeToFirstByte": 4535.586,
+  "weight": {
+    "summary": "230 requests • 4,286 KiB",
+    "total": 4389097,
+    "image": 2644322,
+    "imageCount": 47,
+    "script": 1356390,
+    "scriptCount": 41,
+    "document": 109227,
+    "font": 101470,
+    "fontCount": 5,
+    "stylesheet": 166068,
+    "stylesheetCount": 104,
+    "thirdParty": 1302465,
+    "thirdPartyCount": 94
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 1,
+    "-weight.document": 10,
+    "+weight.document": 2,
+    "-weight.script": 6,
+    "+weight.script": 6,
+    "-weight.image": 11,
+    "+weight.image": 1,
+    "-weight.font": 8,
+    "+weight.font": 4,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1325,
+    "violations": 22
+  }
+}

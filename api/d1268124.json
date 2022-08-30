@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
+  "requestedUrl": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
+  "timestamp": 1661817835823,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 1,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.23,
+    "accessibility": 1,
+    "bestPractices": 0.83,
+    "seo": 0.93,
+    "total": 299
+  },
+  "firstContentfulPaint": 3123.4740000000006,
+  "firstMeaningfulPaint": 3123.4740000000006,
+  "speedIndex": 8819.307512542737,
+  "largestContentfulPaint": 13537.688999999998,
+  "totalBlockingTime": 2198.000000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17587.798000000003,
+  "maxPotentialFirstInputDelay": 977,
+  "timeToFirstByte": 903.6800000000001,
+  "weight": {
+    "summary": "226 requests • 1,873 KiB",
+    "total": 1917990,
+    "image": 208786,
+    "imageCount": 58,
+    "script": 1343094,
+    "scriptCount": 43,
+    "document": 91367,
+    "font": 101442,
+    "fontCount": 5,
+    "stylesheet": 161963,
+    "stylesheetCount": 88,
+    "thirdParty": 1325858,
+    "thirdPartyCount": 95
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 5,
+    "-weight.document": 1,
+    "+weight.document": 11,
+    "-weight.script": 4,
+    "+weight.script": 8,
+    "-weight.image": 6,
+    "+weight.image": 6,
+    "-weight.font": 6,
+    "+weight.font": 6,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 1004,
+    "violations": 16
+  }
+}

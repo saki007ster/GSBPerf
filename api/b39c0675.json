@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
+  "timestamp": 1661816582034,
+  "ranks": {
+    "hundos": 12,
+    "performance": 11,
+    "accessibility": 10,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.22,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.78,
+    "total": 270
+  },
+  "firstContentfulPaint": 2865.654,
+  "firstMeaningfulPaint": 2865.654,
+  "speedIndex": 9744.739823102389,
+  "largestContentfulPaint": 12130.785500000002,
+  "totalBlockingTime": 3516,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 18705.1135,
+  "maxPotentialFirstInputDelay": 1403,
+  "timeToFirstByte": 9.865000000000002,
+  "weight": {
+    "summary": "187 requests • 1,705 KiB",
+    "total": 1745801,
+    "image": 30833,
+    "imageCount": 38,
+    "script": 1331717,
+    "scriptCount": 38,
+    "document": 130198,
+    "font": 125768,
+    "fontCount": 6,
+    "stylesheet": 116027,
+    "stylesheetCount": 73,
+    "thirdParty": 1294847,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 11,
+    "-weight.document": 11,
+    "+weight.document": 3,
+    "-weight.script": 2,
+    "+weight.script": 12,
+    "-weight.image": 5,
+    "+weight.image": 9,
+    "-weight.font": 9,
+    "+weight.font": 4,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 2562,
+    "violations": 22
+  }
+}

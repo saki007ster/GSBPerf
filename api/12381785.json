@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/alumni",
+  "requestedUrl": "https://www.gsb.stanford.edu/alumni",
+  "timestamp": 1661817339988,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.26,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.93,
+    "total": 311
+  },
+  "firstContentfulPaint": 3105.1,
+  "firstMeaningfulPaint": 3105.1,
+  "speedIndex": 11256.26708048186,
+  "largestContentfulPaint": 3705.1,
+  "totalBlockingTime": 2838.500000000001,
+  "cumulativeLayoutShift": 0.3325197832646325,
+  "timeToInteractive": 20500.089999999997,
+  "maxPotentialFirstInputDelay": 1111,
+  "timeToFirstByte": 9.864,
+  "weight": {
+    "summary": "222 requests • 2,870 KiB",
+    "total": 2938931,
+    "image": 591850,
+    "imageCount": 38,
+    "script": 1719965,
+    "scriptCount": 51,
+    "document": 119985,
+    "font": 129412,
+    "fontCount": 7,
+    "stylesheet": 247876,
+    "stylesheetCount": 106,
+    "thirdParty": 2485536,
+    "thirdPartyCount": 99
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 3,
+    "-weight.document": 6,
+    "+weight.document": 2,
+    "-weight.script": 6,
+    "+weight.script": 2,
+    "-weight.image": 4,
+    "+weight.image": 4,
+    "-weight.font": 6,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1322,
+    "violations": 31
+  }
+}

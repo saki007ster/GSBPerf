@@ -1,0 +1,329 @@
+{
+  "https://www.gsb.stanford.edu/alumni": {
+    "requestedUrl": "https://www.gsb.stanford.edu/alumni",
+    "url": "https://www.gsb.stanford.edu/alumni",
+    "hash": "12381785",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast": {
+    "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
+    "url": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
+    "hash": "10eaf7db",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/events": {
+    "requestedUrl": "https://www.gsb.stanford.edu/events",
+    "url": "https://www.gsb.stanford.edu/events",
+    "hash": "1adfb448",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil",
+    "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil",
+    "hash": "1ccd1dff",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/": {
+    "requestedUrl": "https://www.gsb.stanford.edu/",
+    "url": "https://www.gsb.stanford.edu/",
+    "hash": "2b9a5957",
+    "categories": [
+      "gsb",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/experience": {
+    "requestedUrl": "https://www.gsb.stanford.edu/experience",
+    "url": "https://www.gsb.stanford.edu/experience",
+    "hash": "321aaa29",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker",
+    "url": "https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker",
+    "hash": "3c1f3505",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/insights": {
+    "requestedUrl": "https://www.gsb.stanford.edu/insights",
+    "url": "https://www.gsb.stanford.edu/insights",
+    "hash": "3cb56622",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/library/research-support/ask-us": {
+    "requestedUrl": "https://www.gsb.stanford.edu/library/research-support/ask-us",
+    "url": "https://www.gsb.stanford.edu/library/research-support/ask-us",
+    "hash": "3e6af61",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/programs/phd/fields/marketing": {
+    "requestedUrl": "https://www.gsb.stanford.edu/programs/phd/fields/marketing",
+    "url": "https://www.gsb.stanford.edu/programs/phd/fields/marketing",
+    "hash": "49c1dad6",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum": {
+    "requestedUrl": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
+    "url": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
+    "hash": "538f1d6a",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/contact/wil-torres": {
+    "requestedUrl": "https://www.gsb.stanford.edu/contact/wil-torres",
+    "url": "https://www.gsb.stanford.edu/contact/wil-torres",
+    "hash": "5b21784a",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/programs": {
+    "requestedUrl": "https://www.gsb.stanford.edu/programs",
+    "url": "https://www.gsb.stanford.edu/programs",
+    "hash": "5c186250",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/experience/life/international-students": {
+    "requestedUrl": "https://www.gsb.stanford.edu/experience/life/international-students",
+    "url": "https://www.gsb.stanford.edu/experience/life/international-students",
+    "hash": "60d544c2",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/faculty/matt-forrest-abrahams": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/matt-forrest-abrahams",
+    "url": "https://www.gsb.stanford.edu/faculty-research/faculty/matt-forrest-abrahams",
+    "hash": "68fb9763",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions": {
+    "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions",
+    "url": "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions",
+    "hash": "7406b2d5",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/newsroom/school-news/meet-mba-class-2022-talented-diverse": {
+    "requestedUrl": "https://www.gsb.stanford.edu/newsroom/school-news/meet-mba-class-2022-talented-diverse",
+    "url": "https://www.gsb.stanford.edu/newsroom/school-news/meet-mba-class-2022-talented-diverse",
+    "hash": "794c28ba",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/programs/mba/admission/application/education": {
+    "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
+    "url": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
+    "hash": "7b59dee7",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/programs/mba/academic-experience/global-experiences": {
+    "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/academic-experience/global-experiences",
+    "url": "https://www.gsb.stanford.edu/programs/mba/academic-experience/global-experiences",
+    "hash": "7c33782c",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research",
+    "url": "https://www.gsb.stanford.edu/faculty-research",
+    "hash": "845d35f3",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
+    "url": "https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey",
+    "hash": "b39c0675",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun": {
+    "requestedUrl": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
+    "url": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
+    "hash": "b563fafd",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
+    "url": "https://www.gsb.stanford.edu/faculty-research/faculty/matteo-maggiori",
+    "hash": "bc585d9",
+    "categories": [
+      "gsb",
+      "gsblanding"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose": {
+    "requestedUrl": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
+    "url": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
+    "hash": "d1268124",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly": {
+    "requestedUrl": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
+    "url": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
+    "hash": "d51b2617",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/insights/8-faculty-members-recommend-their-favorite-podcasts": {
+    "requestedUrl": "https://www.gsb.stanford.edu/insights/8-faculty-members-recommend-their-favorite-podcasts",
+    "url": "https://www.gsb.stanford.edu/insights/8-faculty-members-recommend-their-favorite-podcasts",
+    "hash": "da5cd629",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/alumni/education-lifelong-learning": {
+    "requestedUrl": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+    "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+    "hash": "e7417db8",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule": {
+    "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+    "url": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+    "hash": "f5afea4d",
+    "categories": [
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsblanding"
+  },
+  "https://www.gsb.stanford.edu/alumni/news/voices": {
+    "requestedUrl": "https://www.gsb.stanford.edu/alumni/news/voices",
+    "url": "https://www.gsb.stanford.edu/alumni/news/voices",
+    "hash": "fe022c2f",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  },
+  "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course": {
+    "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
+    "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
+    "hash": "feb8bc71",
+    "categories": [
+      "gsb",
+      "gsblanding",
+      "gsbmain"
+    ],
+    "vertical": "gsb"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
+  "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast",
+  "timestamp": 1661816528496,
+  "ranks": {
+    "hundos": 10,
+    "performance": 13,
+    "accessibility": 13,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.2,
+    "accessibility": 0.85,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 282
+  },
+  "firstContentfulPaint": 3248.3920000000007,
+  "firstMeaningfulPaint": 3248.3920000000007,
+  "speedIndex": 12095.320717021867,
+  "largestContentfulPaint": 16853.119000000006,
+  "totalBlockingTime": 3280.6234999999997,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 20958.650500000007,
+  "maxPotentialFirstInputDelay": 2194,
+  "timeToFirstByte": 9.425999999999995,
+  "weight": {
+    "summary": "238 requests • 2,562 KiB",
+    "total": 2623228,
+    "image": 736834,
+    "imageCount": 50,
+    "script": 1468785,
+    "scriptCount": 44,
+    "document": 109898,
+    "font": 111648,
+    "fontCount": 6,
+    "stylesheet": 179247,
+    "stylesheetCount": 101,
+    "thirdParty": 1669293,
+    "thirdPartyCount": 112
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 5,
+    "-weight.document": 7,
+    "+weight.document": 7,
+    "-weight.script": 10,
+    "+weight.script": 4,
+    "-weight.image": 12,
+    "+weight.image": 2,
+    "-weight.font": 4,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 13
+  },
+  "axe": {
+    "passes": 1959,
+    "violations": 18
+  }
+}

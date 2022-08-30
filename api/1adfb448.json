@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/events",
+  "requestedUrl": "https://www.gsb.stanford.edu/events",
+  "timestamp": 1661817542487,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 5,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.4,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 331
+  },
+  "firstContentfulPaint": 2867.7619999999997,
+  "firstMeaningfulPaint": 2867.7619999999997,
+  "speedIndex": 6652.682525270306,
+  "largestContentfulPaint": 3820.7619999999997,
+  "totalBlockingTime": 2092.500000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15203.250000000002,
+  "maxPotentialFirstInputDelay": 1123,
+  "timeToFirstByte": 10.152000000000001,
+  "weight": {
+    "summary": "164 requests • 1,646 KiB",
+    "total": 1685184,
+    "image": 9742,
+    "imageCount": 22,
+    "script": 1351077,
+    "scriptCount": 40,
+    "document": 98105,
+    "font": 101394,
+    "fontCount": 5,
+    "stylesheet": 122651,
+    "stylesheetCount": 87,
+    "thirdParty": 1274363,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 7,
+    "-weight.document": 1,
+    "+weight.document": 7,
+    "-weight.script": 3,
+    "+weight.script": 5,
+    "-weight.image": 1,
+    "+weight.image": 7,
+    "-weight.font": 2,
+    "+weight.font": 6,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1139,
+    "violations": 18
+  }
+}
