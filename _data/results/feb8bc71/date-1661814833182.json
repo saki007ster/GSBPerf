@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
+  "timestamp": 1661815807829,
+  "ranks": {
+    "hundos": 4,
+    "performance": 7,
+    "accessibility": 1,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.31,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.92,
+    "total": 315
+  },
+  "firstContentfulPaint": 3180.7779999999993,
+  "firstMeaningfulPaint": 3208.4264999999996,
+  "speedIndex": 8153.533790839813,
+  "largestContentfulPaint": 4442.695999999999,
+  "totalBlockingTime": 4497.289999999997,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 20416.130999999998,
+  "maxPotentialFirstInputDelay": 1987,
+  "timeToFirstByte": 29.77600000000001,
+  "weight": {
+    "summary": "224 requests • 1,903 KiB",
+    "total": 1948452,
+    "image": 258720,
+    "imageCount": 56,
+    "script": 1335733,
+    "scriptCount": 39,
+    "document": 103396,
+    "font": 101371,
+    "fontCount": 5,
+    "stylesheet": 137196,
+    "stylesheetCount": 90,
+    "thirdParty": 1321712,
+    "thirdPartyCount": 95
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 7,
+    "-weight.document": 3,
+    "+weight.document": 11,
+    "-weight.script": 4,
+    "+weight.script": 10,
+    "-weight.image": 10,
+    "+weight.image": 4,
+    "-weight.font": 3,
+    "+weight.font": 11,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 1354,
+    "violations": 16
+  }
+}

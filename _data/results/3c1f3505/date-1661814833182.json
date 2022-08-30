@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker",
+  "timestamp": 1661815283320,
+  "ranks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 12,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.19,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.79,
+    "total": 268
+  },
+  "firstContentfulPaint": 3300.88,
+  "firstMeaningfulPaint": 3525.205,
+  "speedIndex": 14116.822695703657,
+  "largestContentfulPaint": 16242.735499999999,
+  "totalBlockingTime": 11349.285,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 24488.810500000003,
+  "maxPotentialFirstInputDelay": 3444,
+  "timeToFirstByte": 81.55699999999999,
+  "weight": {
+    "summary": "190 requests • 1,698 KiB",
+    "total": 1738621,
+    "image": 25691,
+    "imageCount": 38,
+    "script": 1331742,
+    "scriptCount": 38,
+    "document": 129370,
+    "font": 125663,
+    "fontCount": 6,
+    "stylesheet": 114404,
+    "stylesheetCount": 72,
+    "thirdParty": 1295037,
+    "thirdPartyCount": 93
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 12,
+    "-weight.document": 10,
+    "+weight.document": 4,
+    "-weight.script": 1,
+    "+weight.script": 13,
+    "-weight.image": 2,
+    "+weight.image": 12,
+    "-weight.font": 5,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 2481,
+    "violations": 23
+  }
+}

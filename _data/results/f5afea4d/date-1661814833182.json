@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+  "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+  "timestamp": 1661815505611,
+  "ranks": {
+    "hundos": 7,
+    "performance": 3,
+    "accessibility": 5,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.32,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 309
+  },
+  "firstContentfulPaint": 3161.7870000000003,
+  "firstMeaningfulPaint": 3161.7870000000003,
+  "speedIndex": 12550.554838207707,
+  "largestContentfulPaint": 4021.8470000000007,
+  "totalBlockingTime": 9488.5835,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 30679.3025,
+  "maxPotentialFirstInputDelay": 3342,
+  "timeToFirstByte": 32.015,
+  "weight": {
+    "summary": "226 requests • 2,807 KiB",
+    "total": 2874704,
+    "image": 17316,
+    "imageCount": 37,
+    "script": 2488132,
+    "scriptCount": 49,
+    "document": 116469,
+    "font": 101339,
+    "fontCount": 10,
+    "stylesheet": 140288,
+    "stylesheetCount": 96,
+    "thirdParty": 2451985,
+    "thirdPartyCount": 109
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 4,
+    "-weight.document": 9,
+    "+weight.document": 5,
+    "-weight.script": 11,
+    "+weight.script": 3,
+    "-weight.image": 1,
+    "+weight.image": 13,
+    "-weight.font": 2,
+    "+weight.font": 12,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1367,
+    "violations": 17
+  }
+}

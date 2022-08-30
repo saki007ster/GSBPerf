@@ -2,7 +2,7 @@ module.exports = {
   name: "GSB Content Types",
   description: "Main Content Type pages of GSB",
   options: {
-    frequency: 6,
+    frequency: 1,
     freshChrome: "site",
   },
   urls: [
@@ -16,6 +16,5 @@ module.exports = {
     "https://www.gsb.stanford.edu/contact/wil-torres",
     "https://www.gsb.stanford.edu/library/research-support/ask-us",
     "https://www.gsb.stanford.edu/alumni/news/voices",
-    "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions",
   ],
 };

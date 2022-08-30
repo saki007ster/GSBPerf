@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/matt-forrest-abrahams",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/matt-forrest-abrahams",
+  "timestamp": 1661815421617,
+  "ranks": {
+    "hundos": 11,
+    "performance": 9,
+    "accessibility": 11,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.21,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.79,
+    "total": 270
+  },
+  "firstContentfulPaint": 2828.592,
+  "firstMeaningfulPaint": 2828.5920000000006,
+  "speedIndex": 18720.25899260355,
+  "largestContentfulPaint": 12897.769,
+  "totalBlockingTime": 4600.999999999993,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 19455.190499999997,
+  "maxPotentialFirstInputDelay": 2155,
+  "timeToFirstByte": 5392.071,
+  "weight": {
+    "summary": "187 requests • 1,685 KiB",
+    "total": 1725012,
+    "image": 28131,
+    "imageCount": 40,
+    "script": 1332158,
+    "scriptCount": 38,
+    "document": 113749,
+    "font": 125752,
+    "fontCount": 6,
+    "stylesheet": 113938,
+    "stylesheetCount": 71,
+    "thirdParty": 1295950,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 13,
+    "-weight.document": 8,
+    "+weight.document": 6,
+    "-weight.script": 3,
+    "+weight.script": 11,
+    "-weight.image": 3,
+    "+weight.image": 11,
+    "-weight.font": 9,
+    "+weight.font": 5,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 13,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 1624,
+    "violations": 22
+  }
+}

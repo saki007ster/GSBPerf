@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
+  "requestedUrl": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
+  "timestamp": 1661818048996,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.36,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 313
+  },
+  "firstContentfulPaint": 2985.9219999999996,
+  "firstMeaningfulPaint": 2985.9219999999996,
+  "speedIndex": 7234.4896458707535,
+  "largestContentfulPaint": 4222.374,
+  "totalBlockingTime": 2425,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17252.004,
+  "maxPotentialFirstInputDelay": 1277,
+  "timeToFirstByte": 56.66999999999999,
+  "weight": {
+    "summary": "222 requests • 1,758 KiB",
+    "total": 1800264,
+    "image": 70862,
+    "imageCount": 43,
+    "script": 1376565,
+    "scriptCount": 42,
+    "document": 95015,
+    "font": 101381,
+    "fontCount": 5,
+    "stylesheet": 144172,
+    "stylesheetCount": 93,
+    "thirdParty": 1363609,
+    "thirdPartyCount": 108
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 9,
+    "-weight.document": 3,
+    "+weight.document": 9,
+    "-weight.script": 8,
+    "+weight.script": 4,
+    "-weight.image": 3,
+    "+weight.image": 9,
+    "-weight.font": 3,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 846,
+    "violations": 27
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
+  "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
+  "timestamp": 1661815607101,
+  "ranks": {
+    "hundos": 2,
+    "performance": 6,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.31,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.93,
+    "total": 316
+  },
+  "firstContentfulPaint": 3416.8919999999994,
+  "firstMeaningfulPaint": 3416.8919999999994,
+  "speedIndex": 7763.107224766592,
+  "largestContentfulPaint": 4477.459999999999,
+  "totalBlockingTime": 5840.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 19697.895999999993,
+  "maxPotentialFirstInputDelay": 2241,
+  "timeToFirstByte": 84.19800000000001,
+  "weight": {
+    "summary": "219 requests • 1,746 KiB",
+    "total": 1788204,
+    "image": 30689,
+    "imageCount": 40,
+    "script": 1342325,
+    "scriptCount": 44,
+    "document": 100195,
+    "font": 150448,
+    "fontCount": 7,
+    "stylesheet": 153357,
+    "stylesheetCount": 96,
+    "thirdParty": 1324751,
+    "thirdPartyCount": 96
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 10,
+    "-weight.document": 1,
+    "+weight.document": 13,
+    "-weight.script": 5,
+    "+weight.script": 9,
+    "-weight.image": 4,
+    "+weight.image": 10,
+    "-weight.font": 11,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 981,
+    "violations": 16
+  }
+}

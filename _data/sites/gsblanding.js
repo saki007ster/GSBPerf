@@ -2,7 +2,7 @@ module.exports = {
   name: "GSB Landing pages",
   description: "GSB Landing pages",
   options: {
-    frequency: 6,
+    frequency: 1,
     freshChrome: "run",
   },
   urls: [
