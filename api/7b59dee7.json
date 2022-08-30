@@ -1,10 +1,10 @@
 {
   "url": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
   "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/admission/application/education",
-  "timestamp": 1661822224286,
+  "timestamp": 1661828902412,
   "ranks": {
     "hundos": 1,
-    "performance": 2,
+    "performance": 1,
     "accessibility": 3,
     "cumulative": 1
   },
@@ -16,33 +16,33 @@
     "seo": 0.93,
     "total": 324
   },
-  "firstContentfulPaint": 3099.3799999999997,
-  "firstMeaningfulPaint": 3099.3799999999997,
-  "speedIndex": 7088.597929809992,
-  "largestContentfulPaint": 3736.016,
-  "totalBlockingTime": 2158.4999999999986,
+  "firstContentfulPaint": 3076.5170000000003,
+  "firstMeaningfulPaint": 3076.5170000000003,
+  "speedIndex": 7065.265012224824,
+  "largestContentfulPaint": 3837.4290000000005,
+  "totalBlockingTime": 2100.0000000000005,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16949.941499999994,
-  "maxPotentialFirstInputDelay": 965.9999999999991,
-  "timeToFirstByte": 11.234000000000002,
+  "timeToInteractive": 16577.699999999997,
+  "maxPotentialFirstInputDelay": 983,
+  "timeToFirstByte": 10.818999999999988,
   "weight": {
-    "summary": "222 requests • 1,758 KiB",
-    "total": 1800172,
-    "image": 29797,
+    "summary": "221 requests • 1,760 KiB",
+    "total": 1802579,
+    "image": 31039,
     "imageCount": 39,
-    "script": 1354367,
+    "script": 1354084,
     "scriptCount": 45,
-    "document": 100524,
-    "font": 150429,
+    "document": 100651,
+    "font": 150487,
     "fontCount": 7,
-    "stylesheet": 153588,
+    "stylesheet": 153660,
     "stylesheetCount": 96,
-    "thirdParty": 1336252,
-    "thirdPartyCount": 99
+    "thirdParty": 1338688,
+    "thirdPartyCount": 98
   },
   "run": {
-    "number": 3,
-    "total": 3
+    "number": 2,
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 2,
@@ -56,9 +56,9 @@
     "-weight.font": 5,
     "+weight.font": 3,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 1,
+    "-timeToFirstByte": 3,
     "-totalBlockingTime": 4,
-    "-largestContentfulPaint": 3
+    "-largestContentfulPaint": 2
   },
   "axe": {
     "passes": 981,

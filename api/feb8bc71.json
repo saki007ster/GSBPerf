@@ -1,48 +1,48 @@
 {
   "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
   "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course",
-  "timestamp": 1661822152628,
+  "timestamp": 1661829009958,
   "ranks": {
-    "hundos": 2,
-    "performance": 1,
+    "hundos": 3,
+    "performance": 3,
     "accessibility": 1,
-    "cumulative": 2
+    "cumulative": 3
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.39,
+    "performance": 0.38,
     "accessibility": 1,
     "bestPractices": 0.92,
     "seo": 0.92,
-    "total": 323
+    "total": 322
   },
-  "firstContentfulPaint": 3074.217999999999,
-  "firstMeaningfulPaint": 3074.217999999999,
-  "speedIndex": 6483.835602178969,
-  "largestContentfulPaint": 4248.383999999999,
-  "totalBlockingTime": 1493.1299999999937,
+  "firstContentfulPaint": 2903.624,
+  "firstMeaningfulPaint": 2903.624,
+  "speedIndex": 7457.602509645038,
+  "largestContentfulPaint": 3984.2659999999996,
+  "totalBlockingTime": 2021.9999999999986,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16544.776000000005,
-  "maxPotentialFirstInputDelay": 896,
-  "timeToFirstByte": 14.772999999999996,
+  "timeToInteractive": 17241.272999999997,
+  "maxPotentialFirstInputDelay": 958,
+  "timeToFirstByte": 4.904,
   "weight": {
-    "summary": "222 requests • 1,904 KiB",
-    "total": 1949212,
-    "image": 259604,
+    "summary": "222 requests • 1,906 KiB",
+    "total": 1951654,
+    "image": 260270,
     "imageCount": 56,
-    "script": 1335705,
+    "script": 1336591,
     "scriptCount": 39,
-    "document": 103655,
-    "font": 101385,
+    "document": 103814,
+    "font": 101295,
     "fontCount": 5,
-    "stylesheet": 137385,
+    "stylesheet": 137350,
     "stylesheetCount": 90,
-    "thirdParty": 1322111,
+    "thirdParty": 1324634,
     "thirdPartyCount": 93
   },
   "run": {
     "number": 2,
-    "total": 3
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 4,
@@ -53,12 +53,12 @@
     "+weight.script": 6,
     "-weight.image": 6,
     "+weight.image": 2,
-    "-weight.font": 2,
-    "+weight.font": 6,
+    "-weight.font": 1,
+    "+weight.font": 7,
     "+weight.fontCount": 5,
-    "-timeToFirstByte": 3,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 6
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 4
   },
   "axe": {
     "passes": 1354,

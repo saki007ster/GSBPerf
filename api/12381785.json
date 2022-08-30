@@ -1,48 +1,48 @@
 {
   "url": "https://www.gsb.stanford.edu/alumni",
   "requestedUrl": "https://www.gsb.stanford.edu/alumni",
-  "timestamp": 1661822928113,
+  "timestamp": 1661829457537,
   "ranks": {
-    "hundos": 5,
-    "performance": 5,
+    "hundos": 3,
+    "performance": 4,
     "accessibility": 3,
-    "cumulative": 5
+    "cumulative": 3
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.24,
+    "performance": 0.25,
     "accessibility": 1,
     "bestPractices": 0.92,
     "seo": 0.93,
-    "total": 309
+    "total": 310
   },
-  "firstContentfulPaint": 2973.692,
-  "firstMeaningfulPaint": 2973.692,
-  "speedIndex": 11076.949030591513,
-  "largestContentfulPaint": 4132.692,
-  "totalBlockingTime": 2407,
+  "firstContentfulPaint": 2893.555,
+  "firstMeaningfulPaint": 2893.555,
+  "speedIndex": 10196.735125863339,
+  "largestContentfulPaint": 3943.555,
+  "totalBlockingTime": 2859.499999999999,
   "cumulativeLayoutShift": 0.3324383777515081,
-  "timeToInteractive": 19820.37329290772,
-  "maxPotentialFirstInputDelay": 1015.9999999999991,
-  "timeToFirstByte": 12.292,
+  "timeToInteractive": 20045.085,
+  "maxPotentialFirstInputDelay": 1141.0000000000036,
+  "timeToFirstByte": 5.525,
   "weight": {
-    "summary": "220 requests • 2,851 KiB",
-    "total": 2919175,
-    "image": 591711,
+    "summary": "220 requests • 2,740 KiB",
+    "total": 2806080,
+    "image": 592263,
     "imageCount": 38,
-    "script": 1705096,
+    "script": 1704923,
     "scriptCount": 49,
-    "document": 115231,
-    "font": 129455,
+    "document": 115230,
+    "font": 129376,
     "fontCount": 7,
-    "stylesheet": 247787,
+    "stylesheet": 247131,
     "stylesheetCount": 106,
-    "thirdParty": 2470557,
+    "thirdParty": 2358416,
     "thirdPartyCount": 97
   },
   "run": {
-    "number": 3,
-    "total": 3
+    "number": 2,
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 5,
@@ -56,7 +56,7 @@
     "-weight.font": 6,
     "+weight.font": 2,
     "+weight.fontCount": 1,
-    "-timeToFirstByte": 1,
+    "-timeToFirstByte": 2,
     "-totalBlockingTime": 6,
     "-largestContentfulPaint": 2
   },

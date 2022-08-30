@@ -1,10 +1,10 @@
 {
   "url": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
   "requestedUrl": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
-  "timestamp": 1661823542586,
+  "timestamp": 1661829607701,
   "ranks": {
     "hundos": 2,
-    "performance": 2,
+    "performance": 3,
     "accessibility": 3,
     "cumulative": 2
   },
@@ -16,33 +16,33 @@
     "seo": 0.86,
     "total": 318
   },
-  "firstContentfulPaint": 2739.3150000000005,
-  "firstMeaningfulPaint": 2739.3150000000005,
-  "speedIndex": 7809.189108783949,
-  "largestContentfulPaint": 3851.6150000000007,
-  "totalBlockingTime": 2000.313,
+  "firstContentfulPaint": 2985.966000000001,
+  "firstMeaningfulPaint": 2985.966000000001,
+  "speedIndex": 6691.456332043264,
+  "largestContentfulPaint": 3853.8760000000016,
+  "totalBlockingTime": 2006,
   "cumulativeLayoutShift": 0.00026855468749999997,
-  "timeToInteractive": 17285.117,
-  "maxPotentialFirstInputDelay": 921,
-  "timeToFirstByte": 12.570999999999998,
+  "timeToInteractive": 17240.1025,
+  "maxPotentialFirstInputDelay": 944,
+  "timeToFirstByte": 76.108,
   "weight": {
-    "summary": "218 requests • 1,981 KiB",
-    "total": 2028557,
-    "image": 246118,
+    "summary": "218 requests • 1,983 KiB",
+    "total": 2030639,
+    "image": 247433,
     "imageCount": 40,
-    "script": 1406731,
+    "script": 1406561,
     "scriptCount": 43,
-    "document": 104526,
-    "font": 125725,
+    "document": 104693,
+    "font": 125755,
     "fontCount": 6,
-    "stylesheet": 134140,
+    "stylesheet": 133697,
     "stylesheetCount": 96,
-    "thirdParty": 1374123,
+    "thirdParty": 1376597,
     "thirdPartyCount": 98
   },
   "run": {
-    "number": 3,
-    "total": 3
+    "number": 1,
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 8,
@@ -56,9 +56,9 @@
     "-weight.font": 10,
     "+weight.font": 1,
     "+weight.fontCount": 2,
-    "-timeToFirstByte": 3,
-    "-totalBlockingTime": 7,
-    "-largestContentfulPaint": 3
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 4
   },
   "axe": {
     "passes": 1221,

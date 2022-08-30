@@ -1,7 +1,7 @@
 {
   "url": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
   "requestedUrl": "https://www.gsb.stanford.edu/seed/companies-leaders/meet-entrepreneurs/profiles-purpose",
-  "timestamp": 1661823197276,
+  "timestamp": 1661829972813,
   "ranks": {
     "hundos": 6,
     "performance": 9,
@@ -16,33 +16,33 @@
     "seo": 0.93,
     "total": 301
   },
-  "firstContentfulPaint": 3120.987,
-  "firstMeaningfulPaint": 3120.987,
-  "speedIndex": 7817.006181937148,
-  "largestContentfulPaint": 12864.151999999995,
-  "totalBlockingTime": 1763.500000000001,
+  "firstContentfulPaint": 2961.4780000000005,
+  "firstMeaningfulPaint": 2961.4780000000005,
+  "speedIndex": 8511.791272520652,
+  "largestContentfulPaint": 10246.217000000002,
+  "totalBlockingTime": 1729,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16965.058,
-  "maxPotentialFirstInputDelay": 941,
-  "timeToFirstByte": 49.163,
+  "timeToInteractive": 16490.004,
+  "maxPotentialFirstInputDelay": 919,
+  "timeToFirstByte": 33.559,
   "weight": {
-    "summary": "226 requests • 1,874 KiB",
-    "total": 1919003,
-    "image": 209482,
+    "summary": "226 requests • 1,875 KiB",
+    "total": 1920416,
+    "image": 210426,
     "imageCount": 58,
-    "script": 1343076,
+    "script": 1342760,
     "scriptCount": 43,
-    "document": 91387,
-    "font": 101406,
+    "document": 91551,
+    "font": 101351,
     "fontCount": 5,
-    "stylesheet": 162233,
+    "stylesheet": 162081,
     "stylesheetCount": 88,
-    "thirdParty": 1326599,
+    "thirdParty": 1328331,
     "thirdPartyCount": 95
   },
   "run": {
-    "number": 1,
-    "total": 3
+    "number": 2,
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 7,
@@ -53,12 +53,12 @@
     "+weight.script": 6,
     "-weight.image": 6,
     "+weight.image": 5,
-    "-weight.font": 5,
-    "+weight.font": 6,
+    "-weight.font": 7,
+    "+weight.font": 4,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 10,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 9
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 6
   },
   "axe": {
     "passes": 1004,

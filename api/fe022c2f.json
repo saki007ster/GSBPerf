@@ -1,7 +1,7 @@
 {
   "url": "https://www.gsb.stanford.edu/alumni/news/voices",
   "requestedUrl": "https://www.gsb.stanford.edu/alumni/news/voices",
-  "timestamp": 1661823497580,
+  "timestamp": 1661830040563,
   "ranks": {
     "hundos": 7,
     "performance": 8,
@@ -16,33 +16,33 @@
     "seo": 0.86,
     "total": 293
   },
-  "firstContentfulPaint": 3090.553999999999,
-  "firstMeaningfulPaint": 3090.553999999999,
-  "speedIndex": 7784.370835896658,
-  "largestContentfulPaint": 12756.961,
-  "totalBlockingTime": 1917.000000000001,
+  "firstContentfulPaint": 3091.373999999999,
+  "firstMeaningfulPaint": 3091.373999999999,
+  "speedIndex": 7231.7083238655305,
+  "largestContentfulPaint": 13252.863999999998,
+  "totalBlockingTime": 2172.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16646.591,
-  "maxPotentialFirstInputDelay": 1005.0000000000009,
-  "timeToFirstByte": 17.976,
+  "timeToInteractive": 16609.8955,
+  "maxPotentialFirstInputDelay": 1071,
+  "timeToFirstByte": 3.387000000000004,
   "weight": {
-    "summary": "213 requests • 1,782 KiB",
-    "total": 1824916,
-    "image": 96321,
+    "summary": "213 requests • 1,785 KiB",
+    "total": 1827404,
+    "image": 98133,
     "imageCount": 39,
-    "script": 1355907,
+    "script": 1355292,
     "scriptCount": 41,
-    "document": 97654,
-    "font": 101445,
+    "document": 97821,
+    "font": 101295,
     "fontCount": 5,
-    "stylesheet": 161980,
+    "stylesheet": 162262,
     "stylesheetCount": 95,
-    "thirdParty": 1302229,
+    "thirdParty": 1304592,
     "thirdPartyCount": 94
   },
   "run": {
     "number": 2,
-    "total": 3
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 4,
@@ -53,12 +53,12 @@
     "+weight.script": 5,
     "-weight.image": 4,
     "+weight.image": 7,
-    "-weight.font": 8,
-    "+weight.font": 3,
+    "-weight.font": 1,
+    "+weight.font": 10,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 6,
-    "-totalBlockingTime": 6,
-    "-largestContentfulPaint": 8
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 9
   },
   "axe": {
     "passes": 917,

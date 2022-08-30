@@ -1,7 +1,7 @@
 {
   "url": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
   "requestedUrl": "https://www.gsb.stanford.edu/exec-ed/programs/leading-improv-mindset/curriculum",
-  "timestamp": 1661823352875,
+  "timestamp": 1661829652671,
   "ranks": {
     "hundos": 4,
     "performance": 5,
@@ -10,39 +10,39 @@
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.34,
+    "performance": 0.35,
     "accessibility": 1,
     "bestPractices": 0.92,
     "seo": 0.85,
-    "total": 311
+    "total": 312
   },
-  "firstContentfulPaint": 2802.957,
-  "firstMeaningfulPaint": 2873.922,
-  "speedIndex": 7224.565481960862,
-  "largestContentfulPaint": 4707.835,
-  "totalBlockingTime": 2001.0000000000007,
+  "firstContentfulPaint": 2793.0379999999996,
+  "firstMeaningfulPaint": 2793.0379999999996,
+  "speedIndex": 7210.417853735867,
+  "largestContentfulPaint": 4543.807999999999,
+  "totalBlockingTime": 2097,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16975.8035,
-  "maxPotentialFirstInputDelay": 959,
-  "timeToFirstByte": 24.984999999999992,
+  "timeToInteractive": 16358.483499999998,
+  "maxPotentialFirstInputDelay": 1016.0000000000018,
+  "timeToFirstByte": 89.032,
   "weight": {
-    "summary": "221 requests • 1,758 KiB",
-    "total": 1800075,
-    "image": 71341,
+    "summary": "220 requests • 1,761 KiB",
+    "total": 1803033,
+    "image": 72402,
     "imageCount": 44,
-    "script": 1376289,
+    "script": 1376066,
     "scriptCount": 42,
-    "document": 94616,
-    "font": 101419,
+    "document": 94786,
+    "font": 101329,
     "fontCount": 5,
-    "stylesheet": 144727,
+    "stylesheet": 145344,
     "stylesheetCount": 93,
-    "thirdParty": 1362658,
-    "thirdPartyCount": 107
+    "thirdParty": 1365158,
+    "thirdPartyCount": 106
   },
   "run": {
-    "number": 2,
-    "total": 3
+    "number": 1,
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 3,
@@ -53,11 +53,11 @@
     "+weight.script": 3,
     "-weight.image": 3,
     "+weight.image": 8,
-    "-weight.font": 6,
-    "+weight.font": 5,
+    "-weight.font": 4,
+    "+weight.font": 7,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 8,
-    "-totalBlockingTime": 8,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 7,
     "-largestContentfulPaint": 5
   },
   "axe": {

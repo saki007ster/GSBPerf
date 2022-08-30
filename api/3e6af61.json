@@ -1,48 +1,48 @@
 {
   "url": "https://www.gsb.stanford.edu/library/research-support/ask-us",
   "requestedUrl": "https://www.gsb.stanford.edu/library/research-support/ask-us",
-  "timestamp": 1661823475468,
+  "timestamp": 1661830017954,
   "ranks": {
     "hundos": 1,
-    "performance": 1,
+    "performance": 2,
     "accessibility": 5,
     "cumulative": 1
   },
   "lighthouse": {
     "version": "9.6.6",
-    "performance": 0.4,
+    "performance": 0.41,
     "accessibility": 0.93,
     "bestPractices": 0.92,
     "seo": 0.93,
-    "total": 318
+    "total": 319
   },
-  "firstContentfulPaint": 2931.849,
-  "firstMeaningfulPaint": 2931.849,
-  "speedIndex": 7719.121998039201,
-  "largestContentfulPaint": 3730.889,
-  "totalBlockingTime": 1783.4299999999994,
+  "firstContentfulPaint": 2775.291,
+  "firstMeaningfulPaint": 2775.291,
+  "speedIndex": 7031.096350263132,
+  "largestContentfulPaint": 3806.575,
+  "totalBlockingTime": 1922.8439999999991,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 16087.766999999996,
-  "maxPotentialFirstInputDelay": 871,
-  "timeToFirstByte": 11.370000000000005,
+  "timeToInteractive": 16804.448,
+  "maxPotentialFirstInputDelay": 990,
+  "timeToFirstByte": 2.5090000000000003,
   "weight": {
-    "summary": "212 requests • 1,652 KiB",
-    "total": 1692158,
-    "image": 22636,
+    "summary": "212 requests • 1,653 KiB",
+    "total": 1692790,
+    "image": 23756,
     "imageCount": 41,
-    "script": 1324083,
+    "script": 1323536,
     "scriptCount": 42,
-    "document": 97326,
-    "font": 101389,
+    "document": 97491,
+    "font": 101302,
     "fontCount": 5,
-    "stylesheet": 134591,
+    "stylesheet": 133805,
     "stylesheetCount": 90,
-    "thirdParty": 1309527,
+    "thirdParty": 1311024,
     "thirdPartyCount": 97
   },
   "run": {
     "number": 2,
-    "total": 3
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 2,
@@ -53,12 +53,12 @@
     "+weight.script": 8,
     "-weight.image": 2,
     "+weight.image": 9,
-    "-weight.font": 3,
-    "+weight.font": 8,
+    "-weight.font": 2,
+    "+weight.font": 9,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 2,
+    "-timeToFirstByte": 1,
     "-totalBlockingTime": 4,
-    "-largestContentfulPaint": 2
+    "-largestContentfulPaint": 3
   },
   "axe": {
     "passes": 921,
